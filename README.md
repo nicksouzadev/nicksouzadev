@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá! eu sou o Nick Souza! 👋
+Estudante de Engenharia de Software apaixonado por tecnologia e aspirante a GameDev!
 
 <!--
 **nicksouzadev/nicksouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
