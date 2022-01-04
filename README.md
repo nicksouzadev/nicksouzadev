@@ -1,4 +1,4 @@
-### Olá! Eu sou o Nick Souza!👋
+## Olá! Eu sou o Nick Souza!👋
 Estudante de Engenharia de Software apaixonado por tecnologia e aspirante a GameDev! 
 
 
