@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="80%">
+<a href="https://www.behance.net/gallery/87602523/Chill-Mario" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" target="_blank"></a>
 
 ## Olá! Eu sou o Nick Souza!👋
 Estudante de Engenharia de Software apaixonado por tecnologia e aspirante a GameDev! 
