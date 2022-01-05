@@ -7,7 +7,7 @@ Apaixonado por tecnologia e games, seja jogando ou criando-os.
   <a href="https://www.linkedin.com/in/nickssouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>  
 </div>
 
-**Languages and tools:**
+**Linguagens e Ferramentas:**
   
   <img align="left" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
