@@ -1,14 +1,11 @@
-### Olar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Me chamo Nick Souza!
+## Olar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Me chamo Nick Souza!
+Estudante de Engenharia de Software, desenvolvedor front-end e aspirante a gamedev. <br>
+Apaixonado por tecnologia e games, seja jogando ou criando-os.
 <div>
  <a href="https://www.instagram.com/nicksouzadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:nicksouzadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/nickssouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>  
 </div>
-<ul>
-  <li>🎓 Estudando Engenharia de Software</li>
-  
-</ul>
 
 **Languages and tools:**
   
