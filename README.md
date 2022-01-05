@@ -12,7 +12,8 @@ alt="Instagram" /></a>
  <a href="mailto:nicksouzadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
  <a href="https://www.linkedin.com/in/nickssouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>  
 </div>
-
+ 
+ ##
 **Linguagens e Ferramentas:**
   
   <img align="left" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
