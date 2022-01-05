@@ -1,8 +1,10 @@
-<a href="https://www.behance.net/gallery/87602523/Chill-Mario" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" height="400" width="1000"></a>
-
 ## Olar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Me chamo Nick Souza!
+
+<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" />
+
 Estudante de Engenharia de Software, desenvolvedor Front-end e aspirante a Gamedev.<br>
 Apaixonado por tecnologia e games, seja jogando ou criando-os.
+
 
 <div>
  <a href="https://www.instagram.com/nicksouzadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
