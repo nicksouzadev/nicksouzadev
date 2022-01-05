@@ -1,6 +1,6 @@
 ## Olar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Me chamo Nick Souza!
 
-<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" />
+<img align="right" width="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" />
 
 Estudante de Engenharia de Software, desenvolvedor Front-end e aspirante a Gamedev.<br>
 Apaixonado por tecnologia e games, seja jogando ou criando-os.
