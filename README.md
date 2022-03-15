@@ -5,7 +5,6 @@
 
 
 Estudante de Engenharia de Software, desenvolvedor Front-end e aspirante a Gamedev.<br>
-Apaixonado por tecnologia e games, seja jogando ou criando-os.
 
 
 <div>
