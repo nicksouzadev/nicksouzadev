@@ -1,4 +1,4 @@
-## Olar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Me chamo Nick Souza!
+## Olar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Me chamo Nick Souza!
 
 <img align="right" width="320" src="https://media.giphy.com/media/W91KNORxQrc0sLBLPj/giphy.gif" />
 
