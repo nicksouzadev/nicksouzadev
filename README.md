@@ -4,7 +4,7 @@
 
 
 
-Estudante de Engenharia de Software, desenvolvedor Front-end e aspirante a Gamedev.<br>
+Estudante de Engenharia de Software e desenvolvedor Front-end<br>
 
 
 <div>
