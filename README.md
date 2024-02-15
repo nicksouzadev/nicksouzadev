@@ -4,7 +4,9 @@
 
 Me chamo Nícolas Souza, tenho 23 anos, moro em São Paulo-SP, Atualmente, estou cursando *Análise e Desenvolvimento de Sistemas*, com foco em me tornar um desenvolvedor **Frontend Junior**.
 
-Iniciando um espaço no [Instagram](https://www.instagram.com/nicksouzadev/) onde compartilho conhecimentos adiquiridos ao longo da minha jornada de estudos.
+Na sinfonia intricada do desenvolvimento Frontend, sou um apaixonado arquiteto digital, entrelaçando HTML, CSS, e JavaScript para moldar linhas de código com a precisão de quem esculpe uma obra de arte. Como desenvolvedor Frontend Júnior, trago formalidade à minha abordagem, transformando desafios em oportunidades de aprendizado. Navego pelos intricados desafios da codificação com a destreza de um artesão digital, construindo pontes entre a funcionalidade e a estética. A cada projeto, meu comprometimento se traduz em interfaces intuitivas e esteticamente agradáveis, buscando constantemente inovação e elevação da experiência do usuário.
+
+Sempre disposto a explorar novos horizontes...
 
 ### Sobre Mim ✨
 
@@ -19,9 +21,9 @@ Iniciando um espaço no [Instagram](https://www.instagram.com/nicksouzadev/) ond
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Inglês](https://img.shields.io/badge/Inglês%3F-básico-green.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Inglês](https://img.shields.io/badge/Inglês%3F-básico-green.svg)
 
 ## 📫 Contatos
 
