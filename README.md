@@ -28,7 +28,7 @@ Na sinfonia intricada do desenvolvimento Frontend, sou um apaixonado arquiteto d
 
 [![Instagram Badge](https://img.shields.io/badge/@nicksouzadev-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/nicksouzadev)](https://instagram.com/nicksouzadev)
 [![Linkedin Badge](https://img.shields.io/badge/Nícolas%20Souza-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nícolas-souza-6082542a7/)](https://www.linkedin.com/in/nícolas-souza-6082542a7/) 
-[![Portfólio Badge](https://img.shields.io/badge/Portfólio-2D425E?style=flat&logo=nginx&logoColor=white&link=https://nickdev.netlify.app/)](hhttps://nickdev.netlify.app/) 
+[![Portfólio Badge](https://img.shields.io/badge/Portfólio-2D425E?style=flat&logo=nginx&logoColor=white&link=https://nickdev.netlify.app/)](https://nickdev.netlify.app/) 
 
 <a href="https://github.com/nicksouzadev/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nicksouzadev" />
