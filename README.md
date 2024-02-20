@@ -28,10 +28,11 @@ Na sinfonia intricada do desenvolvimento Frontend, sou um apaixonado arquiteto d
 
 [![Instagram Badge](https://img.shields.io/badge/@nicksouzadev-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/nicksouzadev)](https://instagram.com/nicksouzadev)
 [![Linkedin Badge](https://img.shields.io/badge/Nícolas%20Souza-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nícolas-souza-6082542a7/)](https://www.linkedin.com/in/nícolas-souza-6082542a7/) 
+[![Portfólio Badge](https://img.shields.io/badge/Nícolas%20Souza-Portfólio-2D425E?style=flat&logo=nginx&logoColor=white&link=https://nickdev.netlify.app/)](hhttps://nickdev.netlify.app/) 
 
 <a href="https://github.com/nicksouzadev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nicksouzadev" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nicksouzadev" />
 </a>
 <a href="https://github.com/nicksouzadev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksouzadev&layout=donut&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksouzadev&layout=donut&langs_count=8&card_width=270" />
 </a>
