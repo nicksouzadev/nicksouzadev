@@ -8,7 +8,6 @@ Na sinfonia intricada do desenvolvimento Frontend, sou um apaixonado arquiteto d
 
 ### Sobre Mim ✨
 
-- Apaixonado por "La Casa de Papel" 🎭
 - Gamer entusiasta 🎮
 - Especialista em fazer "Macarão" 🌿
 - Mestre dos trocadilhos e piadas ruins 😄
